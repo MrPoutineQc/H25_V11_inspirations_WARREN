@@ -7,3 +7,6 @@ Je suis personnellement passioné par la moto
 ![photo](Image.jfif)
 
 J'étudie actuellement dans le domaine du multimédia, car ce secteur m'a toujours intéressé depuis mon plus jeune âge, que ce soit par le cinéma, les jeux vidéo ou même la programmation informatique.
+
+![photo](Multimedia-Elements.png)
+
