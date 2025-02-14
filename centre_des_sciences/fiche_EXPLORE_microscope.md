@@ -41,6 +41,16 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
   </tr>
 </table>
 
+<h3 align="center">Interaction avec l'oeuvre</h3>
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/fonctionnment_01.mp4" type="video/mp4">
+</video>
+
+
+
+
+
 
 
 
