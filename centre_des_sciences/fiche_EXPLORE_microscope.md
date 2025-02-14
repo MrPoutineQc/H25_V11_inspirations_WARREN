@@ -1,1 +1,1 @@
-<p align="center"># EXPLOIRE</p>
+<p align="center">EXPLORE</p>
