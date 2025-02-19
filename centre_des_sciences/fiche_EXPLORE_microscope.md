@@ -64,11 +64,26 @@ Voici une vidéo que j'ai filmer qui démontre le fonctionnement : https://youtu
 <h3>Mon avis</h3>
 J'ai beaucoup aimé cette expérience présentée par l'exposition EXPLORE. En effet, malgré sa simplicité inégalable, j'ai toujours été fasciné par le monde qui nous entoure et l'infiniment petit. Cette expérience m'a permis d'assouvir ma curiosité. Le seul reproche que je ferais serait peut-être d'ajouter un peu plus d'échantillons à observer à travers la lentille, mais je conçois qu'il y a aussi des contraintes à respecter.
 
+<br>
+<br>
+
 <div align="center">
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/moi_devant.jpg" alt="Alt Text" width="400" height="500">
 </div>
 
+<h2 align="center">CRÉDITS</h2>
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/credit_01.jpg" alt="Image 1" width="200"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/credit_02.jpg" alt="Image 2" width="200"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/credit_03.jpg" alt="Image 3" width="200"></td>
+  </tr>  
+  <tr>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/credit_04.jpg" alt="Image 4" width="200"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/credit_05.jpg" alt="Image 5" width="200"></td>
+  </tr>
+</table>
 
 
 
