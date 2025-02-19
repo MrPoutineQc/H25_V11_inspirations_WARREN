@@ -60,7 +60,7 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
 Voici une vidéo que j'ai filmer qui démontre le fonctionnement : https://youtube.com/shorts/Lfl3SrDmkLU?feature=share
 
 <h3>Mon avis</h3>
-Selon moi, 
+J'ai beaucoup aimé cette expérience présentée par l'exposition EXPLORE. En effet, malgré sa simplicité inégalable, j'ai toujours été fasciné par le monde qui nous entoure et l'infiniment petit. Cette expérience m'a permis d'assouvir ma curiosité. Le seul reproche que je ferais serait peut-être d'ajouter un peu plus d'échantillons à observer à travers la lentille, mais je conçois qu'il y a aussi des contraintes à respecter.
 
 
 
