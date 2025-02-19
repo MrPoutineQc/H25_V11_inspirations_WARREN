@@ -24,7 +24,7 @@
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/vue_ensemble.jpg" alt="Alt Text" width="400" height="500">
 </div>
 
-<h3 align="center">Description de l'oeuvre</h3>
+<h2 align="center">Description de l'oeuvre</h2>
 
 Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonger dans un monde encore inconnu à l'œil nu. Dôté d'une lumière, une lentille puissante permettant de zoomer et d'ajuster le focus à l'aide des petits leviers disposés à l'avant de l'appareil, ce dispositif permet d'observer les moindres détails, de ceux d'une plante à ceux de la patte d'un papillon. En plus, tout cela est projeté en direct sur un écran.
 
@@ -41,15 +41,26 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
   </tr>
 </table>
 
-<h3 align="center">Interaction avec l'oeuvre</h3>
+<h3>Composantes et techniques</h3>
+<ul>
+    <li>Microscope numérique connecté à un écran.</li>
+    <li>Échantillons préparés.</li>
+    <li>Caméras pour capturer des images en direct.</li>
+</ul>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/fonctionnment_01.mp4" type="video/mp4">
-</video>
+<h3>Éléments nécessaires à la mise en exposition</h3>
+<ul>
+    <li>Tables de présentation pour placer le microscope.</li>
+    <li>Panneaux explicatifs.</li>
+    <li>Éclairage adéquat pour faciliter l'observation.</li>
+</ul>
 
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/fonctionnment_01.mp4)
+<h2>Expérience Vécu & Avis</h2>
 
+Voici une vidéo que j'ai filmer qui démontre le fonctionnement : https://youtube.com/shorts/Lfl3SrDmkLU?feature=share
 
+<h3>Mon avis</h3>
+Selon moi, 
 
 
 
