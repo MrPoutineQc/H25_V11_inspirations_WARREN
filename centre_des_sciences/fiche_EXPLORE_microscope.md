@@ -47,6 +47,9 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
   <source src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/fonctionnment_01.mp4" type="video/mp4">
 </video>
 
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/fonctionnment_01.mp4)
+
+
 
 
 
