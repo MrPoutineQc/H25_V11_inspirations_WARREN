@@ -41,6 +41,8 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
   </tr>
 </table>
 
+**Voici une courte vidéo qui vous fait faire une tour de l'installation :** https://youtube.com/shorts/YQWhCdFlV1A
+
 <h3>Composantes et techniques</h3>
 <ul>
     <li>Microscope numérique connecté à un écran.</li>
@@ -62,6 +64,9 @@ Voici une vidéo que j'ai filmer qui démontre le fonctionnement : https://youtu
 <h3>Mon avis</h3>
 J'ai beaucoup aimé cette expérience présentée par l'exposition EXPLORE. En effet, malgré sa simplicité inégalable, j'ai toujours été fasciné par le monde qui nous entoure et l'infiniment petit. Cette expérience m'a permis d'assouvir ma curiosité. Le seul reproche que je ferais serait peut-être d'ajouter un peu plus d'échantillons à observer à travers la lentille, mais je conçois qu'il y a aussi des contraintes à respecter.
 
+<div align="center">
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/moi_devant.jpg" alt="Alt Text" width="400" height="500">
+</div>
 
 
 
