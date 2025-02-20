@@ -41,6 +41,8 @@ Ce microscope, aussi insignifiant qu'il puisse paraître, peut vous faire plonge
   </tr>
 </table>
 
+<h3>Mise en espace</h3>
+
 **Voici une courte vidéo qui vous fait faire une tour de l'installation :** https://youtube.com/shorts/YQWhCdFlV1A
 
 <h3>Composantes et techniques</h3>
