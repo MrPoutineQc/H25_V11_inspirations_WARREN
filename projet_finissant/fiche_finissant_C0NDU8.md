@@ -1,4 +1,4 @@
-<h1 align="center">EXPOSITION FINISSANT</h1>
+<h1 align="center">EXPOSITION RÉSOSONANCE</h1>
 
 <div align=center>
   
@@ -8,7 +8,7 @@
 **Type d'exposition :** Temporaire et intérieure
 <br>
   
-**Date de visite :** 25 Février 2025
+**Date de visite :** 25 Février 2025 & 18 Mars 2025
 </div>
 
 
