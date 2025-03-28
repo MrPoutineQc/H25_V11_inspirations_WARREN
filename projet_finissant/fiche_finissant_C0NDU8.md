@@ -50,16 +50,13 @@
 Un jeu d'arcade où le joueur incarne un motard pédalant sur un vélo stationnaire à travers un purgatoire virtuel. Il contrôle ainsi sa vitesse et sa direction. L'objectif est d'encourager l'utilisateur à améliorer leur condition physique en les plongeant dans une course effrénée et semée de défis. 
 <br>
 <br>
-***Source :*** 
-
-<img src="" alt="Alt Text">
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/panneau_con_du8.jfif" alt="Alt Text">
 
 ### Type d'installation : 
-<img src="" alt="Alt Text">
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/velo_con_du8.jfif" alt="Alt Text">
 
 ### Mise en espace :
 L'œuvre peut être disposée dans une pièce comme un salon. Elle n'occupe pas réellement de place, à l'exception du vélo stationnaire, qui peut être facilement déplacé. Un téléviseur ou un projecteur peut être utilisé pour afficher le jeu.
-<img src="" alt="Alt Text">
 
 
 <h3>Composantes et techniques</h3>
@@ -78,6 +75,15 @@ L'œuvre peut être disposée dans une pièce comme un salon. Elle n'occupe pas 
     <li>Pièce ou espace disponible (comme un salon)</li>
 </ul>
 
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/speaker_con_du8.jfif" width="1200" height="300"</td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/toile_con_du8.jfif"  width="1200" height="200"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/projecteur_dessous_con_du8.jfif"  width="1200" height="200"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/projecteur_con_du8.jfif" width="1200" height="200"></td>
+  </tr>
+</table>
 
 
 
