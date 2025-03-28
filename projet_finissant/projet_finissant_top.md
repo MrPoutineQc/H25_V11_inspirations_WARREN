@@ -5,6 +5,9 @@
 
 ### 1. CON DU8
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/c0ndu8_logo.png" alt="Alt Text">
+
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/c0ndu8_logo.png" alt="Alt Text">
    
    - **Note :** Avant d'utiliser le dispositif, j'étais très excité, car cette œuvre reliait deux mondes que j'aime beaucoup, à savoir le sport et les jeux vidéo. Après l'utilisation du dispositif, j'étais très satisfait du produit, car il répondait aux attentes que  
      j'avais : s'amuser tout en faisant du sport.
@@ -17,6 +20,9 @@
 
 ### 2. LUMINATURA
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/luminatura_logo.png" alt="Alt Text">
+
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/ensemble_luminaturia.jfif" alt="Alt Text">
 
 - **Note :** Je ne savais pas trop à quoi m'attendre, très franchement, avant l'utilisation de ce dispositif. Il m'était inconnu, je n'avais 
   jamais vu ce type de dispositif interactif auparavant. Mais, sans surprise, j'ai plutôt apprécié l'expérience qu'il m'a offerte. 
@@ -31,6 +37,9 @@
 ### 3. ÉTHERNIA
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/etheria_logo.jpg" alt="Alt Text">
 
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/etheria_infrastructure.jfif" alt="Alt Text">
+
 - **Note :** Ce jeu interactif m'a donné très envie quand je l'ai vu, son aspect « pixel art » lui donnait un côté très original. Après l'avoir   
   testé, j'ai été très surpris, car je ne m'attendais pas à ce qu'il soit aussi développé. Il y avait déjà plusieurs niveaux et des 
   pouvoirs pour les différents personnages. J'ai beaucoup aimé l'expérience coopérative de ce jeu, où il fallait s'entraider. 
@@ -43,6 +52,9 @@
 
 ### 4. FUGA
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/logo_fuga.jpg" alt="Alt Text">
+
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/fuga_ensemble_noir.jfif" alt="Alt Text">
 
 - **Note :** Avant d'essayer ce dispositif, j'étais déjà intrigué par leur décor. En effet, les feuilles qui montaient jusqu'au plafond 
   m'attiraient subtilement. Après l'utilisation du dispositif, bien qu'il soit simple, il était très satisfaisant à utiliser. Les 
@@ -57,6 +69,9 @@
 
 ### 5. INTERNATURE
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/logo_internature.jpg" alt="Alt Text">
+
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/ensemble_internature.jfif" alt="Alt Text">
 
 - **Note :** Internature, bien qu'il paraissait simple de l'extérieur, m'a offert une très belle expérience immersive. En effet, après 
   l'utilisation de cette œuvre, j'ai été impressionné par l'immersion qu'elle nous donnait grâce aux différents projecteurs qui 
@@ -73,6 +88,9 @@
 ### 6. ARCADIA
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/logo_arcadia.jpg" alt="Alt Text">
 
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/borne1_arcadia.jfif" alt="Alt Text">
+
 - **Note :** Ce projet peut sembler simple au premier coup d’œil, mais après mon expérience, j’ai complètement changé 
   d’avis. Ce jeu nous ramène tout droit à l’âge d’or des arcades. Une expérience unique et épurée : j’ai 
   beaucoup aimé jouer à Arcadia. Les sons 8 bits nous plongent parfaitement dans l’ambiance de son univers.
@@ -86,6 +104,9 @@
 
 ### 7. PRISMATICA
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/prismatica_logo.png" alt="Alt Text">
+
+## Installation
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/prismatica_ensemble.jpg" alt="Alt Text">
 
 - **Note :** Même s’il est le dernier de la liste, j’ai tout de même trouvé ce projet intéressant. Au premier regard, je 
   ne savais pas trop quoi en penser, mais après l’avoir essayé, j’ai trouvé que c’était une belle petite 
