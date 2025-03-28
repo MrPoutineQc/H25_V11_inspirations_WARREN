@@ -34,6 +34,13 @@
     <td>Kevin Malric</td>
     <td>Jérémy Roy-Coté</td>
   </tr>
+    <tr>
+    <td>Designer de niveaux</td>
+    <td>Directeur artistique</td>
+    <td>Programmeur des méchanismes</td>
+    <td>Resposable du développement technique</td>
+    <td>Programmeur interconnectivité</td>
+  </tr>
 </table>
 <br>
 
