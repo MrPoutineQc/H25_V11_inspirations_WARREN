@@ -36,11 +36,30 @@
   effet, une caméra captait les différents QR codes pour les transformer en mouvements dans le jeu.
 
 
-### 4. 44
+### 4. Arcadia
 <img src="" alt="Alt Text">
 
-### 5. 55
+- Avant d'essayer ce dispositif, j'étais déjà intrigué par leur décor. En effet, les feuilles qui montaient jusqu'au plafond 
+  m'attiraient subtilement. Après l'utilisation du dispositif, bien qu'il soit simple, il était très satisfaisant à utiliser. Les 
+  différents contrôles du dispositif permettaient de générer un arbre de n'importe quelle couleur, grandeur ou forme, et bien plus 
+  encore. J'ai beaucoup aimé la diversité qu'ils nous proposaient.
+- Les trois cours du programme qui me semblent utiles à la création du projet sont : Modélisation 3D, Interactivité ludique et 
+  Programmation interactive
+- L'un des composants qui m'a le plus intrigué était une mini-caméra qui captait la lumière. Ainsi, si la caméra était cachée, l'arbre 
+  devenait sombre, et si elle était découverte, l'arbre redevenait clair.
+
+### 5. INTERNATURE
 <img src="" alt="Alt Text">
+
+- Internature, bien qu'il paraissait simple de l'extérieur, m'a offert une très belle expérience immersive. En effet, après 
+  l'utilisation de cette œuvre, j'ai été impressionné par l'immersion qu'elle nous donnait grâce aux différents projecteurs qui 
+  projetaient des fleurs tout autour de nous. La direction de ces fleurs était décidée par nous. En plus de cela, la toile était 
+  interactive, ce qui ajoutait encore davantage à l'immersion.
+- Les trois cours du programme qui me semblent utiles à la création du projet sont :  Installation multimédia, Interactivité ludique 
+  et Audio 2
+- L'élément principal qui m'a le plus intrigué est la boule. Quand nous la tournions sur elle-même, elle prenait la direction dans 
+  laquelle nous la tournions. En effet, il y avait de petites billes de roulement qui captaient le mouvement de celle-ci en dessous de 
+  la grosse boule.
 
 ### 6. 66
 <img src="" alt="Alt Text">
