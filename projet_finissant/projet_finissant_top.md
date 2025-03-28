@@ -7,7 +7,7 @@
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/c0ndu8_logo.png" alt="Alt Text">
 
 ## Installation
-<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/c0ndu8_logo.png" alt="Alt Text">
+<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/con_du8_ensemble.webp" alt="Alt Text">
    
    - **Note :** Avant d'utiliser le dispositif, j'étais très excité, car cette œuvre reliait deux mondes que j'aime beaucoup, à savoir le sport et les jeux vidéo. Après l'utilisation du dispositif, j'étais très satisfait du produit, car il répondait aux attentes que  
      j'avais : s'amuser tout en faisant du sport.
