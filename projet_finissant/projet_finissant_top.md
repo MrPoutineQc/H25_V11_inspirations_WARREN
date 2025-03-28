@@ -1,4 +1,4 @@
-<h1 align="center">Résonance</h1>
+<h1 align="center">RÉSONANCE</h1>
 <div align="center">
 <img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/r%C3%A9sonance_logo.jfif" alt="Alt Text">
 </div>
