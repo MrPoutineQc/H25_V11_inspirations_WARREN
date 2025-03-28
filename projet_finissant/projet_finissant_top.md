@@ -6,7 +6,7 @@
 ### 1. CON DU8
 <img src="" alt="Alt Text">
    
-   - Avant d'utiliser le dispositif, j'étais très excité, car cette œuvre reliait deux mondes que j'aime beaucoup, à savoir le sport        et les jeux vidéo. Après l'utilisation du dispositif, j'étais très satisfait du produit, car il répondait aux attentes que  
+   - Avant d'utiliser le dispositif, j'étais très excité, car cette œuvre reliait deux mondes que j'aime beaucoup, à savoir le sport et les jeux vidéo. Après l'utilisation du dispositif, j'étais très satisfait du produit, car il répondait aux attentes que  
      j'avais : s'amuser tout en faisant du sport.
    - Les trois cours du programme qui me semblent utiles à la création du projet sont : Modélisation 3D, Animation 3D et Installation 
      multimédia.
@@ -36,7 +36,7 @@
   effet, une caméra captait les différents QR codes pour les transformer en mouvements dans le jeu.
 
 
-### 4. Arcadia
+### 4. FUGA
 <img src="" alt="Alt Text">
 
 - Avant d'essayer ce dispositif, j'étais déjà intrigué par leur décor. En effet, les feuilles qui montaient jusqu'au plafond 
@@ -61,8 +61,26 @@
   laquelle nous la tournions. En effet, il y avait de petites billes de roulement qui captaient le mouvement de celle-ci en dessous de 
   la grosse boule.
 
-### 6. 66
+### 6. ARCADIA
+<img src="" alt="Alt Text">
+- Ce projet peut sembler simple au premier coup d’œil, mais après mon expérience, j’ai complètement changé 
+  d’avis. Ce jeu nous ramène tout droit à l’âge d’or des arcades. Une expérience unique et épurée : j’ai 
+  beaucoup aimé jouer à Arcadia. Les sons 8 bits nous plongent parfaitement dans l’ambiance de son univers.
+- Les trois cours du programme qui me semblent utiles à la création du projet sont : Audio 2, Programmation 
+  intéractive et Illustration Numérique
+- Le composant sur lequel je me suis posé des questions dans le projet était les fameux boutons d'arcade. Ils 
+  étaient en effet tous reliés à une carte mère, qui envoyait des signaux à l'ordinateur, permettant ainsi au 
+  jeu de savoir quelle action le joueur effectuait.
+
+
+### 7. PRISMATICA
 <img src="" alt="Alt Text">
 
-### 7. 77
-<img src="" alt="Alt Text">
+- Même s’il est le dernier de la liste, j’ai tout de même trouvé ce projet intéressant. Au premier regard, je 
+  ne savais pas trop quoi en penser, mais après l’avoir essayé, j’ai trouvé que c’était une belle petite 
+  expérience. Malgré sa simplicité, l’œuvre parvient à nous plonger dans son univers. Le changement de mélodie 
+  selon la couleur sélectionnée est vraiment une bonne idée.
+- Les trois cours du programme qui me semblent utiles à la création du projet sont : Audio 2, Traitement audiovisuel et Objets interactifs
+- La question que je me suis posée pour celui-ci était : comment les formes et les couleurs étaient-elles 
+  détectées ? J'ai appris par la suite qu'il utilisait TouchDesigner, qui analyse les images captées par la 
+  caméra pour reconnaître les formes et les couleurs utilisées.
