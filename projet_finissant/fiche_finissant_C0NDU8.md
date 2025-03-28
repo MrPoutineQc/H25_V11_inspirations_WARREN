@@ -22,11 +22,11 @@
 
 <table align="center">
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/ian_corbin.jpg"</td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/samuel_desmeules-voyer.jpg"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/alexandre_gervais.jpg"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/keven_malric.jpg"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/projet_finissant/medias/jeremy_roy-cote.jpg"></td>
   </tr>
   <tr align="center">
     <td>Ian Corbin</td>
@@ -83,13 +83,14 @@ L'œuvre peut être disposée dans une pièce comme un salon. Elle n'occupe pas 
 
 <h2 align="center">Avis Personnel et Expérience</h2>
 
-***Voici une vidéo que j'ai filmer qui démontre le fonctionnement :*** LIEN
+***Voici une vidéo que j'ai filmer qui démontre le fonctionnement :*** https://youtu.be/wM96qGqBLIA
 
 ### Ce qui vous a plu, vous a donné des idées ?
 Pour commencer, étant un gamer depuis mon plus jeune âge, j'ai beaucoup aimé l'idée originale du produit. En effet, le fait d'encourager les gens à faire du sport tout en s'amusant est vraiment une idée qui m'a touché. Avec la démocratisation des jeux vidéo, beaucoup de personnes sont devenues plus sédentaires, et je pense que ce genre de produit pourrait être une option viable pour celles qui n'aiment pas trop sortir de chez elles.
 
 ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement ?
 L'une des idées auxquelles j'ai pensé que je ferais peut-être autrement serait de ne pas limiter le joueur à une simple piste définie, mais plutôt à un monde ouvert généré aléatoirement où il pourrait se promener à travers des villes et la campagne. Cela pourrait offrir au joueur un lien plus fort avec le jeu, puisque chaque carte serait différente.
+<br>
+<br>
 
-
- 
+**Site officiel de C0N DU8 :** https://gearshift-games.github.io/Web-C0N-DU8/#/
