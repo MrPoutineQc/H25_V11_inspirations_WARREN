@@ -19,6 +19,7 @@
 </div>
 
 <h2 align="center"">Équipe</h2>
+
 <table align="center">
   <tr>
     <td><img src=""></td>
@@ -27,14 +28,14 @@
     <td><img src=""></td>
     <td><img src=""></td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>Ian Corbin</td>
     <td>Samuel Desmeules-Voyer</td>
     <td>Alexandre Gervais</td>
     <td>Kevin Malric</td>
     <td>Jérémy Roy-Coté</td>
   </tr>
-    <tr>
+    <tr align="center">
     <td>Designer de niveaux</td>
     <td>Directeur artistique</td>
     <td>Programmeur des méchanismes</td>
