@@ -2,7 +2,6 @@
 # Conférence **Jade Séguela**
 
 <br>
-<br>
 
 ## Compte Rendu
 
