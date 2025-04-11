@@ -1,4 +1,4 @@
-### Date : Mardi 25 mars 2025
+#### Date : Mardi 25 mars 2025
 # Conférence **Jade Séguela**
 
 <br>
@@ -14,10 +14,25 @@ Pour débuter, créer une œuvre n'est pas une tâche simple. Une équipe de ges
 
 
 ### Les Oeuvres
-Pour continuer, commençons par l'œuvre « Sphere Packing: Bach ». Cette sphère de 3 mètres de diamètre, équipée de plus de 1 128 haut-parleurs, nous immerge dans une expérience auditive incroyable. Chaque haut-parleur joue un morceau différent de la composition de Johann Sebastian Bach, d'où la présence de "Bach" dans le nom de l'œuvre.
+Pour continuer, commençons par l'oeuvre « Sphere Packing: Bach ». Cette sphère de 3 mètres de diamètre, équipée de plus de 1 128 haut-parleurs, nous immerge dans une expérience auditive incroyable. Chaque haut-parleur joue un morceau différent de la composition de Johann Sebastian Bach, d'où la présence de "Bach" dans le nom de l'œuvre. 
 
-<img src="URL_de_l'image" alt="Sphere Packing: Bach">
+**Voici un image ci-dessous de l'oeuvre en question.**
+
+![Sphere Packing: Bach](https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/conference_jade-seguela/medias/sphere_packing_bach.jpg)
+
+<br>
+
+
+En deuxième lieu, il y a aussi l'œuvre « Shadow Tuner ». Il s'agit d'une image animée représentant la Terre en rotation sur une sphère. Comme l'a expliqué Jade Séguela, cette œuvre existe en deux versions : une miniature et une autre à grande échelle. La version plus petite utilise un écran LED, tandis que celle à grande échelle fait appel à différents projecteurs. Une caméra est installée sur cette œuvre pour capturer les mouvements du public et les transformer en ombres sur la sphère, comme mentionné sur le site de Rafael Lozano-Hemmer. : « Lorsque les ombres couvraient différentes villes, elles déclenchaient automatiquement les stations de radio locales en direct, créant ainsi un dispositif de syntonisation polyphonique mondial. » ***(Source : En bas de la page)***
+
+**Voici une photo qui montre la version miniature de l'oeuvre**
+
+![Shadow Tuner](https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/conference_jade-seguela/medias/shadow_tuner.jpg)
 
 
 ### Conclusion
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Pour conclure ce compte rendu, j'aimerais commencer par dire que j'ai apprécié cette conférence. Je ne m'attendais pas à découvrir autant d'étapes dans la création d'un simple dispositif multimédia. Les moyens nécessaires sont également très importants pour créer ce genre de dispositif. Cependant, j'ai été particulièrement impressionné par la première œuvre, « Sphere Packing: Bach ». Aussi simple qu'elle puisse paraître, le travail derrière est colossal. Bien que je sois quelqu'un qui aime beaucoup la programmation, ces projets de dispositifs ont véritablement retenu mon attention. Enfin, j'ai beaucoup appris lors de cette conférence. Très peu de personnes réalisent à quel point les moyens employés pour créer ce genre de dispositif sont considérables. Je reconnais désormais beaucoup plus l'importance des artistes et des travailleurs qui se cachent derrière ces créations.
+
+### Sources :
+Les images et la description des oeuvres ont été trouvées sur le site officiel de Rafael Lozano-Hemmer
+https://www.lozano-hemmer.com/
