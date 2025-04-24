@@ -1,4 +1,4 @@
-<img src="0" alt="0" width="0" height="0">
+<div align="center"><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/photo_exterieur_mbam.jpg" alt="photo_exterieur_mbam" width="600" height="406"></div>
 
 <h1 align="center">Exposition Art contemporain</h1>
 
