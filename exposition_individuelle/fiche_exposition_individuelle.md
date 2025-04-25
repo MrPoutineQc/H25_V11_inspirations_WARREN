@@ -1,72 +1,62 @@
-<div align="center">![Animation](https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/souvenirs_femme.gif)</div>
+<div align="center"><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/grand_plan_oeuvre.jpg" alt="GIF">
+<br>
+<i>Image tiré du site de l'exposition</i>
+</div>
 
-<h1 align="center">Exposition Art contemporain</h1>
+<h1 align="center">Collecteur de mémoires</h1>
 
 <div align=center>
 
 **INFORMATION PERTINENTE**
-
-**Nom de l'exposition :** Camp Wakonda
   
-**Lieu :** Musée des beaux-arts de Montréal
+**Lieu :** Pointe-à-Callière, Cité d'archéologie et d'histoire de Montréal
 <br>
   
-**Type d'exposition :** Temporaire et intérieure
+**Type d'exposition :** Exposition permanente
 <br>
   
-**Date de visite :** 4 Avril 2025 
+**Date de visite :** 21 Février 2025 
 
-**Nom de l'artiste :** Graeme Patterson
+**Nom de l'artiste :** Pointe-à-Callière, en partenariat avec la Ville de Montréal et l'Office national du film du Canada.
 
-**Année de Réalisation : 2013**
-
-### Voici la carte descriptive de l'installation
-<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/fiche_descriptive.jpeg" alt="fiche_descriptive" width="816" height="1088">
+**Année de Réalisation :** 2017
 </div>
 
 ## Description de l'oeuvre 
-Cette installation inclut deux structures en forme de maisons miniatures, posées sur des lits superposés. Les maisons, illuminées de l'intérieur par des mini-projecteurs, projettent de petites vidéos montrant des personnes exécutant une action. Entre les deux lits superposés, une scène dramatique est représentée : un autobus a percuté une voiture. Les flammes et la fumée jaillissent au centre de cet accident, où un poteau électrique est également disposé.
+Cette expérience multisensorielle, longue de 110 mètres sous terre, est implantée dans une portion de l'ancien système d'égout collecteur de Montréal. L'œuvre offre une expérience immersive grâce aux différentes projections lumineuses sur les parois en pierre et à un environnement sonore spécialement conçu. L'exposition transporte le spectateur dans un voyage captivant à travers l'histoire fascinante du premier égout collecteur de Montréal, construit entre 1832 et 1838. Cette oeuvre, nous amènes à 
 
-<h3 align="center">Voici diverses vues de l’œuvre décrites</h3>
-<table align="center">
-  <tr>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/plan_moyen_derriere.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/vue_droite_rapproche.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/interieur_maison_archere.jpeg" scale="0.5"></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/plan_rapproche_bus.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/plonge_accident.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/vue_gauche_interieur.jpeg" scale="0.5"></td>
-  </tr>
-</table>
+## Voici deux vidéos qui vous montre l'oeuvre en action
+
+Vidéo #1 : https://youtube.com/shorts/r2vQNGxte9c?feature=share
+<br>
+Vidéo #2 : https://youtube.com/shorts/tFNOeaL9HBI?feature=share
 
 <br>
 
 ## Composantes et techniques
 **Composantes :**
-- Deux lits superposés.
-- Deux maisons miniatures.
-- Un autobus et une voiture miniatures représentant la scène d'accident.
-- Un poteau électrique miniature.
-- Des lampes suspendues au plafond pour l’éclairage général.
+- Les parois historiques en pierre du collecteur d'égout.
+- Des systèmes de projection lumineuse (Projecteurs).
+- Un système sonore comprenant des haut-parleurs.
+- Des systèmes lumineux connectés pour créer des effets d'éclairage dynamiques.
 
 **Techniques :**
-- Utilisation de mini-projecteurs à l’intérieur des maisons pour projeter des vidéos.
-- Usage d’un gros projecteur pour créer l’illusion des flammes.
-- Mise en scène soignée pour juxtaposer l’accident dramatique avec les maisons paisibles.
-- Éclairage contrôlé via les lampes pour créer une ambiance immersive.
+- Utilisation de projecteurs pour afficher des animations et des images sur les parois du collecteur.
+- Conception sonore immersive diffusée via les haut-parleurs pour transporter les visiteurs dans l'ambiance du passé.
+- Éclairage contrôlé et synchronisé avec les projections et le son pour créer une immersion complète.
+- Mise en scène minutieuse pour mettre en valeur l’histoire du premier égout collecteur de Montréal et sa signification historique.
+
 <br>
-<h3 align="center">Voici une plan large de l'oeuvre ainsi que des différentes composantes</h3>
+<h3 align="center">Voici les différentes composantes</h3>
 <table align="center">
   <tr>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/plan_large_piece.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/projecteur_plafond.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/projecteur_mini_cabane.jpeg" scale="0.5"></td>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/Exposition_MBAM/medias/lampe_plafond.jpeg" width="3500px"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/haut_parleur.jpeg" ></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/projecteur_dlp.jpeg" ></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/derriere_lampe.jfif" ></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/perspective_lampe.jfif"></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/perspective_lumiere_projecteur.jpeg"></td>
   </tr>
 </table>
-
 
 <br>
 
@@ -76,11 +66,15 @@ Il existe plusieurs éléments que le musée a mis en place pour que l'œuvre so
 ## Expérience vécue
 Mon expérience fut assez spéciale. Je ne savais pas à quoi m'attendre en entrant dans la salle. Cependant, j'ai apprécié l'ambiance sombre qu'elle dégageait, avec une scène d'accident et deux cabanes sur des bases de lits superposés. J'ai été stupéfait par cette œuvre au premier regard, mais plus je l'observais, plus je réalisais à quel point elle était agréable à contempler. Ce genre d'œuvre ne se voit pas tous les jours, et pourtant, j'ai agréablement apprécié mon expérience.
 
+<div align="center"><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/souvenirs_femme.gif" alt="GIF">
+
+<i>L'image laisse s'écouler les souvenirs.</i>
+</div>
+
 <br>
 
 ## Ce qui m'a plu
-Ce qui m'a le plus plu dans cette œuvre, ce sont les émotions que j'ai réussi à ressentir à travers les scènes : la tristesse de l'accident, mais aussi celle transmise par les mini-personnages affichés sur les murs des cabanes. J'ai beaucoup aimé le contraste entre ces deux éléments.
-
+Pour commencer, j'ai adoré mon expérience à Pointe-à-Callière. C'était la première fois que je visitais ce lieu, et je n'ai pas été déçu. En ce qui concerne l'œuvre, j'ai particulièrement apprécié l'immersion dans laquelle nous étions plongés. La musique et les lumières nous ont véritablement fait voyager à travers l'histoire. J'ai beaucoup aimé l'idée original de cette oeuvre, ce n'est pas tout les jours que nous pouvons visité un patrimoine préserver comme celui-ci. 
 <br>
-
-_Source image musée :_ https://www.mbam.qc.ca/fr/
+<br>
+_Quelques informations ainsi que la première image ont été trouvées sur le site officiel du musée :_ https://pacmusee.qc.ca/fr/expositions/detail/collecteur-de-memoires/
