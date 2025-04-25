@@ -56,6 +56,7 @@ Cette installation inclut deux structures en forme de maisons miniatures, posée
 - Usage d’un gros projecteur pour créer l’illusion des flammes.
 - Mise en scène soignée pour juxtaposer l’accident dramatique avec les maisons paisibles.
 - Éclairage contrôlé via les lampes pour créer une ambiance immersive.
+- Utilisation de plusieurs câble d'alimentation.
 <br>
 <h3 align="center">Voici une plan large de l'oeuvre ainsi que des différentes composantes</h3>
 <table align="center">
