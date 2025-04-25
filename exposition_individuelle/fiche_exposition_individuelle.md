@@ -23,7 +23,7 @@
 </div>
 
 ## Description de l'oeuvre 
-Cette expérience multisensorielle, longue de 110 mètres sous terre, est implantée dans une portion de l'ancien système d'égout collecteur de Montréal. L'œuvre offre une expérience immersive grâce aux différentes projections lumineuses sur les parois en pierre et à un environnement sonore spécialement conçu. L'exposition transporte le spectateur dans un voyage captivant à travers l'histoire fascinante du premier égout collecteur de Montréal, construit entre 1832 et 1838. Cette oeuvre, nous amènes à 
+Cette expérience multisensorielle **contemplative**, longue de 110 mètres sous terre, est implantée dans une portion de l'ancien système d'égout collecteur de Montréal. L'œuvre offre une expérience immersive grâce aux différentes projections lumineuses sur les parois en pierre et à un environnement sonore spécialement conçu. L'exposition transporte le spectateur dans un voyage captivant à travers l'histoire fascinante du premier égout collecteur de Montréal, construit entre 1832 et 1838. Cette oeuvre, nous amènes à 
 
 ## Voici deux vidéos qui vous montre l'oeuvre en action
 
