@@ -50,7 +50,7 @@ Vidéo #2 : https://youtube.com/shorts/tFNOeaL9HBI?feature=share
 <h3 align="center">Voici les différentes composantes</h3>
 <table align="center">
   <tr>
-    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/haut_parleur.jpeg" ></td>
+    <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/haut_parleur.jpeg"></td>
     <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/projecteur_dlp.jpeg" ></td>
     <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/derriere_lampe.jfif" ></td>
     <td><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/perspective_lampe.jfif"></td>
