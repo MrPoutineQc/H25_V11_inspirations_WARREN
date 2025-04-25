@@ -25,7 +25,7 @@
 </div>
 
 ## Description de l'oeuvre 
-Cette installation inclut deux structures en forme de maisons miniatures, posées sur des lits superposés. Les maisons, illuminées de l'intérieur par des mini-projecteurs, projettent de petites vidéos montrant des personnes exécutant une action. Entre les deux lits superposés, une scène dramatique est représentée : un autobus a percuté une voiture. Les flammes et la fumée jaillissent au centre de cet accident, où un poteau électrique est également disposé.
+Cette installation **contemplative** inclut deux structures en forme de maisons miniatures, posées sur des lits superposés. Les maisons, illuminées de l'intérieur par des mini-projecteurs, projettent de petites vidéos montrant des personnes exécutant une action. Entre les deux lits superposés, une scène dramatique est représentée : un autobus a percuté une voiture. Les flammes et la fumée jaillissent au centre de cet accident, où un poteau électrique est également disposé.
 
 <h3 align="center">Voici diverses vues de l’œuvre décrites</h3>
 <table align="center">
