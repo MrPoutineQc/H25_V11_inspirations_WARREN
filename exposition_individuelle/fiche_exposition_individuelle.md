@@ -61,10 +61,10 @@ Vidéo #2 : https://youtube.com/shorts/tFNOeaL9HBI?feature=share
 <br>
 
 ## Éléments nécessaires à la mise en exposition	
-Il existe plusieurs éléments que le musée a mis en place pour que l'œuvre soit présentée. Le premier élément est évidemment une salle de taille moyenne, sans fenêtres et sombre. Le musée a également mis à disposition des câbles pour alimenter tous les circuits électriques, tels que les projecteurs et les lumières. Sans oublier les lampes accrochées au plafond, qui éclairent la scène.
+Plusieurs éléments ont été nécessaires à la mise en exposition de cette œuvre. Pour débuter, un câblage discret a été mis en place pour alimenter tout l'équipement (haut-parleurs, lumières connectées, projecteurs). De plus, plusieurs logiciels ont été utilisés pour concevoir et synchroniser les projections avec l'éclairage et le son. Finalement, nus pouvons également supposer que plusieurs supports ont été utilisés pour fixer l'infrastructure électrique, tout en respectant les parois historiques.
 
 ## Expérience vécue
-Mon expérience fut assez spéciale. Je ne savais pas à quoi m'attendre en entrant dans la salle. Cependant, j'ai apprécié l'ambiance sombre qu'elle dégageait, avec une scène d'accident et deux cabanes sur des bases de lits superposés. J'ai été stupéfait par cette œuvre au premier regard, mais plus je l'observais, plus je réalisais à quel point elle était agréable à contempler. Ce genre d'œuvre ne se voit pas tous les jours, et pourtant, j'ai agréablement apprécié mon expérience.
+Que dire de cette expérience ? J'ai été agréablement surpris par son immersion. Plus j'avançais dans le tunnel, plus je me sentais réellement immergé. Cette œuvre m'a fait réaliser à quel point l'ingéniosité humaine est surprenante. Créer un système d'égouts à cette époque n'a pas été fait de main morte. Étant un grand fanatique d'histoire, ce genre d'expérience me plonge complètement dans l'époque en question. L'idée d'utiliser cette exposition pour ne pas oublier ceux et celles qui ont construit cet égout est ingénieuse.
 
 <div align="center"><img src="https://github.com/MrPoutineQc/H25_V11_inspirations_WARREN/blob/main/exposition_individuelle/medias/souvenirs_femme.gif" alt="GIF">
 
